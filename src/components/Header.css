@@ -1,0 +1,18 @@
+header{
+    width: 100%;
+    background-color: aqua;
+}
+ul { display: flex;
+     justify-content: space-between;
+}
+.container { 
+    width: 50%;
+    margin: 0 auto;
+}
+ul li{
+    font-size: 30px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
